@@ -1,0 +1,23 @@
+{
+  "name": "tslint-config-ccs",
+  "version": "0.1.0",
+  "description": "A tslint configuration for and by Creative Curiosity",
+  "main": "tslint.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativecuriositystudio/tslint-config-ccs.git"
+  },
+  "keywords": [
+    "tslint",
+    "config",
+    "typescript",
+    "rules",
+    "lint"
+  ],
+  "contributors": [
+    "Zack Corr <zack@z0w0.me> (http://z0w0.me)"
+  ],
+  "license": "MIT",
+  "bugs": "https://github.com/creativecuriositystudio/tslint-config-ccs/issues",
+  "homepage": "https://github.com/creativecuriositystudio/tslint-config-ccs#readme"
+}
