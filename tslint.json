@@ -11,8 +11,28 @@
     "object-literal-sort-keys": false,
     "trailing-comma": false,
     "no-string-literal": false,
-    "member-access": false,
+    "no-string-throw": true,
     "switch-default": false,
-    "max-line-length": [true, 140]
+    "max-line-length": [true, 140],
+    "completed-docs": true,
+    "member-access": false,
+    "prefer-method-signature": true,
+    "arrow-return-shorthand": [true],
+    "typedef": [true, "parameter"],
+    "no-inferrable-types": [true, "ignore-params", "ignore-properties"],
+    "promise-function-async": true,
+    "no-reference": true,
+    "unified-signatures": true,
+    "indent": [true, "spaces"],
+    "eofline": [true],
+    "no-magic-numbers": [true],
+    "member-ordering": [true, {
+      "order": [
+        "instance-field",
+        "constructor",
+        "instance-method",
+        "static-field"
+      ]
+    }]
   }
 }
