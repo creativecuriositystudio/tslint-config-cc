@@ -1,6 +1,16 @@
 {
-  "extends": "tslint:recommended",
+  "extends": [
+    "tslint:recommended",
+    "tslint-eslint-rules"
+  ],
   "rules": {
+    "object-curly-spacing": [true, "always", { "objectsInObjects": false }],
+    "no-constant-condition": true,
+    "no-extra-semi": true,
+    "valid-typeof": true,
+    "brace-style": [true, "1tbs", { "allowSingleLine": true }],
+    "no-shadowed-variable" false,
+    "linebreak-style": [true, "LF"],
     "array-type": [true, "array"],
     "quotemark": [true, "single", "jsx-double", "avoid-escape"],
     "interface-name": [true, "never-prefix"],

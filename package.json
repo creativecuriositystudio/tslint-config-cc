@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-ccs",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A tslint configuration for and by Creative Curiosity",
   "main": "tslint.json",
   "repository": {
@@ -19,5 +19,8 @@
   ],
   "license": "MIT",
   "bugs": "https://github.com/creativecuriositystudio/tslint-config-ccs/issues",
-  "homepage": "https://github.com/creativecuriositystudio/tslint-config-ccs#readme"
+  "homepage": "https://github.com/creativecuriositystudio/tslint-config-ccs#readme",
+  "dependencies": {
+    "tslint-eslint-rules": "^3.4.0"
+  }
 }
