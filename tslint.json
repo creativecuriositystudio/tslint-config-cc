@@ -4,6 +4,7 @@
     "tslint-eslint-rules"
   ],
   "rules": {
+    "ter-indent": [true, 2],
     "object-curly-spacing": [true, "always", { "objectsInObjects": false }],
     "no-constant-condition": true,
     "no-extra-semi": true,
@@ -33,7 +34,7 @@
     "promise-function-async": true,
     "no-reference": true,
     "unified-signatures": true,
-    "indent": [true, "spaces"],
+    "indent": false,
     "eofline": [true],
     "no-magic-numbers": [true],
     "member-ordering": [true, {
