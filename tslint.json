@@ -5,6 +5,7 @@
   ],
   "rules": {
     "curly": false,
+    "no-default-export": true,
     "ter-indent": [true, 2],
     "object-curly-spacing": [true, "always", { "objectsInObjects": false }],
     "no-constant-condition": true,
