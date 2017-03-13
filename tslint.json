@@ -37,7 +37,7 @@
     "unified-signatures": true,
     "indent": false,
     "eofline": [true],
-    "no-magic-numbers": [true],
+    "no-magic-numbers": false,
     "member-ordering": [true, {
       "order": [
         "instance-field",
