@@ -13,6 +13,7 @@
     "valid-typeof": true,
     "brace-style": [true, "1tbs", { "allowSingleLine": true }],
     "no-shadowed-variable": false,
+    "variable-name": [true, "ban-keywords", "check-format", "allow-leading-underscore", "allow-trailing-underscore"],
     "linebreak-style": [true, "LF"],
     "array-type": [true, "array"],
     "quotemark": [true, "single", "jsx-double", "avoid-escape"],
