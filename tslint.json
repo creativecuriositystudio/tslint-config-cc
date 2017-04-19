@@ -39,7 +39,6 @@
     "indent": false,
     "eofline": [true],
     "no-magic-numbers": false,
-    "no-unused-variable": [true, {"ignore-pattern": "^_"}],
     "member-ordering": [true, {
       "order": [
         "instance-field",
