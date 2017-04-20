@@ -39,6 +39,7 @@
     "indent": false,
     "eofline": [true],
     "no-magic-numbers": false,
+    "prefer-const": false,
     "member-ordering": [true, {
       "order": [
         "instance-field",
