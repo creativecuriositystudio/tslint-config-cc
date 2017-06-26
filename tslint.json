@@ -6,7 +6,7 @@
   "rules": {
     "curly": false,
     "no-default-export": true,
-    "ter-indent": [true, 2],
+    "indent": [true, "spaces", 2],
     "object-curly-spacing": [true, "always", { "objectsInObjects": false }],
     "no-constant-condition": true,
     "no-extra-semi": true,
@@ -36,7 +36,6 @@
     "promise-function-async": true,
     "no-reference": true,
     "unified-signatures": true,
-    "indent": false,
     "eofline": [true],
     "no-magic-numbers": false,
     "prefer-const": false,
