@@ -33,7 +33,7 @@
     "arrow-return-shorthand": [true],
     "typedef": [true, "parameter"],
     "no-inferrable-types": [true, "ignore-params", "ignore-properties"],
-    "promise-function-async": true,
+    "promise-function-async": false,
     "no-reference": true,
     "unified-signatures": true,
     "eofline": [true],
