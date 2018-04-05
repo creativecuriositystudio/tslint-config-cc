@@ -46,6 +46,7 @@
         "instance-method",
         "static-field"
       ]
-    }]
+    }],
+    "import-spacing": false
   }
 }

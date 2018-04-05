@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-ccs",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "A tslint configuration for and by Creative Curiosity",
   "main": "tslint.json",
   "repository": {
