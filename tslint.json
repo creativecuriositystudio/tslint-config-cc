@@ -41,10 +41,9 @@
     "prefer-const": false,
     "member-ordering": [true, {
       "order": [
+        "static-field",
         "instance-field",
-        "constructor",
-        "instance-method",
-        "static-field"
+        "constructor"
       ]
     }],
     "import-spacing": false
